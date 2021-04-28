@@ -1,4 +1,4 @@
-<?php namespace Swancreative\LaravelWpApi;
+<?php namespace blancoms\LaravelWpApi;
 
 use Illuminate\Support\ServiceProvider;
 

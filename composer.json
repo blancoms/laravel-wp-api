@@ -1,16 +1,16 @@
 {
-    "name": "swancreative/laravel-wp-api",
-    "description": "Laravel package for the Wordpress JSON REST API forked from threesquared",
+    "name": "blancoms/laravel-wp-api",
+    "description": "Laravel package for the Wordpress JSON REST API forked from swancreative/laravel-wp-api",
     "keywords": ["laravel", "package", "wordpress", "API", "REST"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Ben Speakman/Matt Wilding",
-            "email": "support@swancreative.com"
+            "name": "Matías Blanco",
+            "email": "blanco.ms@gmail.com"
         }
     ],
     "require": {
-        "php": "^7.0",
+        "php": "^8.0",
         "guzzlehttp/guzzle": "~7.0"
     },
     "require-dev": {

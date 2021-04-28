@@ -1,7 +1,7 @@
-<?php namespace Swancreative\LaravelWpApi\Facades;
+<?php namespace blancoms\LaravelWpApi\Facades;
 
 use Illuminate\Support\Facades\Facade;
-use Swancreative\LaravelWpApi\WpApi as WordpressApi;
+use blancoms\LaravelWpApi\WpApi as WordpressApi;
 
 class WpApi extends Facade {
 

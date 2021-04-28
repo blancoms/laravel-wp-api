@@ -1,6 +1,6 @@
 <?php
 
-use Swancreative\LaravelWpApi\WpApi;
+use blancoms\LaravelWpApi\WpApi;
 use GuzzleHttp\Client;
 use GuzzleHttp\Handler\MockHandler;
 use GuzzleHttp\HandlerStack;
