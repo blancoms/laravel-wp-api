@@ -8,7 +8,7 @@ Laravel 5 package for the [Wordpress JSON REST API](https://github.com/WP-API/WP
 
 Simply add the following line to your `composer.json` and run install/update:
 
-    "mattwilding/laravel-wp-api": "~2.0"
+    "blancoms/laravel-wp-api": "~2.3"
 
 ## Configuration
 
@@ -16,11 +16,11 @@ You will need to add the service provider and optionally the facade alias to you
 
 ```php
 'providers' => array(
-  Mattwilding\LaravelWpApi\LaravelWpApiServiceProvider::class
+  Blancoms\LaravelWpApi\LaravelWpApiServiceProvider::class
 )
 
 'aliases' => array(
-  'WpApi' => Mattwilding\LaravelWpApi\Facades\WpApi::class
+  'WpApi' => Blancoms\LaravelWpApi\Facades\WpApi::class
 ),
 ```
 

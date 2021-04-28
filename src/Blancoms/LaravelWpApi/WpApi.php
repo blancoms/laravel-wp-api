@@ -1,4 +1,4 @@
-<?php namespace blancoms\LaravelWpApi;
+<?php namespace Blancoms\LaravelWpApi;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\RequestException;

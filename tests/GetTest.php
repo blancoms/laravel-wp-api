@@ -1,6 +1,6 @@
 <?php
 
-use blancoms\LaravelWpApi\WpApi;
+use Blancoms\LaravelWpApi\WpApi;
 use GuzzleHttp\Client;
 use GuzzleHttp\Handler\MockHandler;
 use GuzzleHttp\HandlerStack;
