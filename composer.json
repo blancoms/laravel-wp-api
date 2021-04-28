@@ -18,14 +18,14 @@
     },
     "autoload": {
         "psr-0": {
-            "Swancreative\\LaravelWpApi\\": "src/"
+            "Blancoms\\LaravelWpApi\\": "src/"
         }
     },
     "minimum-stability": "stable",
     "extra": {
         "laravel": {
             "providers": [
-                "Swancreative\\LaravelWpApi\\LaravelWpApiServiceProvider"
+                "Blancoms\\LaravelWpApi\\LaravelWpApiServiceProvider"
             ]
         }
     }
